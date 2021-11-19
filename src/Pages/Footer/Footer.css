@@ -1,0 +1,34 @@
+.icon {
+	margin: 5px;
+	padding: 5px;
+	background-color: #008cba;
+	/* border-radius: 5px; */
+	color: rgb(155, 155, 155);
+	font-size: 30px;
+}
+.icon:hover {
+	background-color: rgb(250, 25, 25);
+}
+.footer-menu {
+	list-style: none;
+	margin-top: 20px;
+	font-size: 16px;
+	cursor: pointer;
+}
+.footer-menu:hover {
+	color: rgb(53, 209, 248);
+}
+.footer-input {
+	padding: 8px;
+	border: none;
+	outline: none;
+	background-color: wheat;
+}
+.footer-container {
+	background-color: #008cba;
+	padding: 50px;
+	color: rgb(216, 209, 209);
+}
+span {
+	color: rgb(183, 215, 223);
+}
